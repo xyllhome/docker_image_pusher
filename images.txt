@@ -21,7 +21,7 @@ memcached:1.6.28-alpine3.20
 rabbitmq:3.13.3-alpine
 
 node:22.3.0-alpine3.20
-node:20.14.0-alpine3.20
+node:20.15.0-alpine3.20
 node:18.20.3-alpine3.20
 node:16.20.2-alpine3.18
 node:14.21.3-alpine3.17
