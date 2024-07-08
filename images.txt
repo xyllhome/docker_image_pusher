@@ -1,1 +1,1 @@
-bitwardenrs/server:latest
+vaultwarden/server:latest
