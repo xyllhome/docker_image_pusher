@@ -1,1 +1,2 @@
-fantasticit /think:latest
+ wx-rdc/think:latest
+haiibo/packages:latest
