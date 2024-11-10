@@ -1,1 +1,1 @@
-haiibo/packages:latest
+wx-rdc/think:latest
